@@ -1,2 +1,2 @@
 # ScoketDemo
-soket与tcp/udp的通信
+scoket与tcp/udp的通信
